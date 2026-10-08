@@ -2,7 +2,7 @@
 
 # zemamba
 
-### Lead Infrastructure Architect
+### Lead System Architect
 
 **Reliable infrastructure · High availability & disaster recovery · Python automation**
 
@@ -14,7 +14,7 @@
 
 ## About
 
-I’m a Lead Infrastructure Architect focused on Linux, OpenStack, high availability, and disaster recovery. I use Python automation to make operational work more repeatable. I’m currently exploring Go and AI/LLM systems.
+I’m a Lead System Architect focused on Linux, OpenStack, high availability, and disaster recovery. I use Python automation to make operational work more repeatable. I’m currently exploring Go and AI/LLM systems.
 
 ## Focus
 
@@ -36,6 +36,6 @@ I contribute to open-source projects across Go, Python, and TypeScript. Recent w
 
 ## Open to
 
-Infrastructure architecture roles and conversations about reliable systems, automation, and open source.
+System architecture roles and conversations about reliable systems, automation, and open source.
 
 [Visit my portfolio →](https://zemamba.github.io)
