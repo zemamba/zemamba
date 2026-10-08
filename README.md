@@ -20,7 +20,7 @@ I’m a Lead System Architect focused on Linux, OpenStack, high availability, an
 
 | Infrastructure | Automation | Exploring |
 | --- | --- | --- |
-| Linux · OpenStack · HA/DR | Python | Go · AI/LLM systems |
+| Linux · DR/HA · GSLB | AI Automation | Go · AI/LLM systems |
 
 ## Selected projects
 
